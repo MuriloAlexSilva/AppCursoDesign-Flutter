@@ -2,8 +2,8 @@
 
 Projeto desenvolvido como modelo de paginas de para Login.
 
-
-<img src="/images/Login.jpg">
-
+<p>
+<img src="/images/Login.jpg" style="size: 10;">
+</p>
 
 
